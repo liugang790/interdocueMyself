@@ -8,13 +8,12 @@
 
 ### 使用方法
 
-在线的项目展示效果可以点击链接： [React Animation Resume](https://shiningdan.github.io/react-animation-resume/)
 
 如果想在本地下载、编译、运行，可以参考以下命令：
 
 ```
-git clone https://github.com/ShiningDan/react-animation-resume.git
-cd react-animation-resume/
+git clone https://github.com/liugang790/interdocueMyself.git
+cd interdocueMyself/
 npm install
 npm run build
 npm run start
