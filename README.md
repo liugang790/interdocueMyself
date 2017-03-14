@@ -1,4 +1,4 @@
-## react-animation-resume
+## interdocueMyself
 
 原版动态效果参见 http://strml.net/
 
